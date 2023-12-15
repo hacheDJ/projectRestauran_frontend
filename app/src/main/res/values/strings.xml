@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project_restaurant_frontend_movil</string>
+    <string name="main_title_welcome">Bienvenido...</string>
+    <string name="main_subtitle_log_in">Inicio de Sesión</string>
+    <string name="main_hint_username"> usuario</string>
+    <string name="main_hint_password"> contraseña</string>
+    <string name="main_btn_get_into">Ingresar</string>
+    <string name="main_iv_logo">logo</string>
+</resources>

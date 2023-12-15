@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496389438377",
+    "project_id": "project-restaurant-df24c",
+    "storage_bucket": "project-restaurant-df24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496389438377:android:12b17ad27c773d71ed62b8",
+        "android_client_info": {
+          "package_name": "pe.edu.cibertec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpLypQjBOgJe_7l5xoVBn_DdelfO84aa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
